@@ -1,3 +1,4 @@
 # Singleton (usuario único)
 
-![imagen](https://github.com/user-attachments/assets/3895e493-c0c2-406a-9959-30cf543ce27a)
+![imagen](https://github.com/user-attachments/assets/38f7d873-01e0-4ff1-a458-e8d13fa00362)
+
